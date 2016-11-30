@@ -28,6 +28,7 @@ public class LinearQueue
 	}
 	
 	public int size(){
+		//returns the size of the queue
 		return this.queue.size();
 	}
 	
